@@ -6,4 +6,4 @@ class Solution:
                 return [i,j]
                 
                 
-    #nums = [2,7,11,15], target = 22
+    
